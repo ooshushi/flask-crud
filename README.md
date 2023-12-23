@@ -1,13 +1,14 @@
 Loan Management System
 
-Prerequisites
+Prerequisites:
 
-Python 3.x
 Flask
+
 Flask-MySQLdb
+
 MySQL
 
-Features
+Features:
 
 Login/Logout: Users can log in to the system using a username and password. The system uses a simple in-memory user authentication mechanism.
 
@@ -19,7 +20,7 @@ Update Loan Contract: Users can update an existing loan contract by providing th
 
 Delete Loan Contract: Users can delete a loan contract.
 
-API Endpoints
+API Endpoints:
 
 GET /loancontract: Retrieve a list of all loan contracts.
 
